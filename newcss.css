@@ -1,0 +1,57 @@
+body div{
+    display: inline-block;
+
+}
+
+.topnav{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.top_list ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.top_list ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.top_list{
+    background-color: grey;
+    float: right;
+}
+
+.produtos{
+    height: 480px;
+    background-color: lightblue;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+
+.prod {
+    height: 350px;
+    width: 18%;
+    text-align: center;
+    border: solid red 3px;
+}
+
+.indice{
+    text-align: center;
+    background-color: silver;
+    margin: 10px;
+}
+
+.produto{
+   
+}
